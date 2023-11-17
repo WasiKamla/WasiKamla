@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Frontend Expert 🚀 | React.js | Next.js | React Native</h1>
 
-<!--
-**WasiKamla/WasiKamla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🌟 "Welcome to the realm of digital wizardry!</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm a passionate React.js, Next.js, and React Native Developer with a magical journey spanning 2 years. 🧙‍♂️ My craft revolves around conjuring compelling web and mobile applications that transcend ordinary** **experiences. ✨ From wielding the power of React to crafting Next.js spells and harnessing the versatility of React Native, I thrive on architecting user-centric, high-performance solutions.**
+
+<br>
+
+**📱 My expertise lies in weaving seamless UI/UX designs that captivate and delight users. I believe in the alchemy of optimizing app performance, ensuring a mystical journey across diverse platforms. 🚀 Constantly** **immersed in the cauldron of new tech trends, I'm devoted to staying abreast of the ever-evolving landscape, ready to channel innovation into every project.**
+
+<br>
+
+**Let's collaborate and cast spells of innovation together, transforming ideas into mesmerizing digital reality.🚀** 
