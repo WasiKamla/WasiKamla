@@ -5,19 +5,46 @@
 💡 My passion for clean code and problem-solving drives me to continuously enhance my skills and contribute innovative solutions to projects. 🔍🛠️
 
 🌟 Skills & Expertise:
-🚀 React.js & Next.js Development
+<li>🚀 React.js & Next.js Development</li>
+<li>
 💻 Frontend Core Technologies: HTML5, CSS3, JavaScript
+</li>
+<li>
 🔧 Component-Based Architecture
+</li>
+<li>
 📈 Performance Optimization
+</li>
+<li>
 🔍 Problem-Solving & Troubleshooting
+</li>
+<li>
 🤝 Collaboration & Teamwork
+</li>
+<li>
 📱 Responsive Web Design
+</li>
+<li>
 🔗 RESTful APIs & GraphQL
+</li>
+<li>
 📊 State Management (Redux Toolkit, Context API, Zustand)
+</li>
+<li>
 🧪 Testing: Jest, React Testing Library
+</li>
+<li>
 🛠️ Build Tools: Webpack, Babel
+</li>
+<li>
 🌐 SEO Best Practices
+</li>
+<li>
 📱 Progressive Web Apps (PWAs)
+</li>
+<li>
 🧩 UI/UX Principles & Design Implementation
+</li>
+
 
 Let's connect! I'm enthusiastic about discussing new ventures, exchanging ideas, and exploring potential collaborations. Feel free to reach out for networking, collaboration opportunities, or a friendly chat.
