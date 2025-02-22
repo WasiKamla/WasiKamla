@@ -1,4 +1,4 @@
-<h1>Frontend Expert 🚀 | React.js | Next.js | TypeScript</h1>
+<h1>Frontend Engineer 🚀 | React.js | Next.js | TypeScript | AWS | OpenAI | Node.js </h1>
 
 🚀 With 2 years of self-taught expertise in React.js development, I specialize in crafting seamless and user-friendly web applications. Proficient in React.js, HTML, CSS, and JavaScript, I create robust, responsive, and intuitive digital solutions.
 
