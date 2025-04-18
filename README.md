@@ -95,13 +95,16 @@ graph TD
     A[Full Stack Development] --> B[AI Integration]
     A --> C[SaaS Architecture]
     A --> D[DevOps & CI/CD]
+    A --> L[Geospatial Solutions]
     B --> E[OpenAI]
     B --> F[Claude]
     B --> G[Gemini & DeepSeek]
     C --> H[Multi-tenant Systems]
     C --> I[Subscription Management]
-    D --> J[Automated Deployments]
+    D --> J[Kubernetes & Docker]
     D --> K[Performance Optimization]
+    L --> M[Mapbox & Google Maps]
+    L --> N[HERE Maps & OpenLayers]
 ```
 </div>
 
