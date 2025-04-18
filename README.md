@@ -9,7 +9,7 @@
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoNmU1amV3eTEycG5ldWttMWQwYzVxZ2N1dXc3OWxtOHpxODd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" />
+<img align="right" height="220px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoNmU1amV3eTEycG5ldWttMWQwYzVxZ2N1dXc3OWxtOHpxODd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" />
 
 ## 👨‍💻 `whoami`
 
