@@ -9,8 +9,6 @@
 
 </div>
 
-<img align="right" height="220px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoNmU1amV3eTEycG5ldWttMWQwYzVxZ2N1dXc3OWxtOHpxODd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" />
-
 ## 👨‍💻 `whoami`
 
 I transform complex business requirements into **elegant, scalable digital solutions**. With expertise in both **frontend and backend technologies**, I specialize in creating high-performance SaaS platforms and AI-powered applications that drive business growth.
@@ -18,9 +16,9 @@ I transform complex business requirements into **elegant, scalable digital solut
 ```javascript
 const developer = {
   specialization: ["Full Stack Development", "AI Integration", "SaaS Architecture"],
-  revenue_generated: "$100K+",
   experience: "3+ years",
-  passion: "Building tomorrow's solutions with today's code"
+  passion: "Building tomorrow's solutions with today's code",
+  hobbies: ["Cricket", "Watching Anime", Gaming, Travel]
 };
 ```
 
@@ -86,6 +84,7 @@ const developer = {
 </div>
 
 ## 💎 Core Expertise
+```mermaid
 <div align="center">
   graph TD
     A[Full Stack Development] --> B[AI Integration]
@@ -101,6 +100,7 @@ const developer = {
     D --> K[Performance Optimization]
     L --> M[Mapbox & Google Maps]
     L --> N[HERE Maps & OpenLayers]
+```
 </div>
 
 - **Performance Wizard**: Improved application speeds by 40%
