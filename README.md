@@ -87,7 +87,7 @@ const developer = {
 
 ## 💎 Core Expertise
 <div align="center">
-mermaid
+```mermaid
   graph TD
     A[Full Stack Development] --> B[AI Integration]
     A --> C[SaaS Architecture]
@@ -102,6 +102,7 @@ mermaid
     D --> K[Performance Optimization]
     L --> M[Mapbox & Google Maps]
     L --> N[HERE Maps & OpenLayers]
+  ```
 </div>
 
 - **Performance Wizard**: Improved application speeds by 40%
