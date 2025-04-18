@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # 🚀 FULL STACK DEVELOPER | AI SPECIALIST
 
