@@ -1,16 +1,15 @@
 <div>
   
-# 🚀 FULL STACK DEVELOPER | JavaScript | React | Vue | Node.js | AWS | AI Agents
+# 🚀 Full Stack Developer | JavaScript | React | Vue | Node.js | AWS | AI Agents
 
 ![Banner](https://img.shields.io/badge/-%F0%9F%94%A5%203%2B%20YEARS%20BUILDING%20SCALABLE%20SAAS%20%26%20AI%20SOLUTIONS%20%F0%9F%94%A5-black?style=for-the-badge&labelColor=black)
 
-[<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/VISIT-PORTFOLIO-00C7B7?style=for-the-badge&logo=gatsby&logoColor=white" />](https://your-portfolio.com)
-[<img src="https://img.shields.io/badge/SEND-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@example.com)
+[<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/waseem-abbas-3a6797207/)
+[<img src="https://img.shields.io/badge/SEND-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:waseemabbbasofficial@gmail.com)
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src="/api/placeholder/300/270" />
+<img align="right" height="270px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoNmU1amV3eTEycG5ldWttMWQwYzVxZ2N1dXc3OWxtOHpxODd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" />
 
 ## 👨‍💻 `whoami`
 
@@ -74,7 +73,7 @@ const developer = {
 | Project | Tech Stack | Achievements |
 |---------|-----------|--------------|
 | **🚀 SaaS Revenue Platform** | React, Node.js, MongoDB | Generated $100K+ revenue, Reduced operational costs by 30% |
-| **🤖 AI Business Assistant** | Claude API, OpenAI, Vue.js | Automated 75% of customer inquiries, 24/7 availability |
+| **🤖 AI Business Assistant** | Claude API, OpenAI | Custom AI agents for business Automation|
 | **🌐 Geospatial Analytics** | Mapbox, React, WebSockets | Real-time location intelligence for 5000+ daily users |
 
 </div>
@@ -82,16 +81,14 @@ const developer = {
 ## ⚡ Stats & Contributions
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wasikamla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wasikamla&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ## 💎 Core Expertise
-
 <div align="center">
-
-```mermaid
-graph TD
+mermaid
+  graph TD
     A[Full Stack Development] --> B[AI Integration]
     A --> C[SaaS Architecture]
     A --> D[DevOps & CI/CD]
@@ -105,19 +102,17 @@ graph TD
     D --> K[Performance Optimization]
     L --> M[Mapbox & Google Maps]
     L --> N[HERE Maps & OpenLayers]
-```
 </div>
 
 - **Performance Wizard**: Improved application speeds by 40%
 - **Deployment Expert**: Reduced deployment times by 50%
-- **Solutions Architect**: Designed systems handling 1M+ monthly requests
 
 ## 📫 Let's Build Something Amazing
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=github&style=for-the-badge)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge)](https://twitter.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/wasikamla?logo=github&style=for-the-badge)](https://github.com/wasikamla)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wasikamla?logo=twitter&style=for-the-badge)](https://twitter.com/wasikamla)
 
 **"The best way to predict the future is to create it."**
 
