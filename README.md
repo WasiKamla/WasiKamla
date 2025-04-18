@@ -1,6 +1,6 @@
 <div>
   
-# 🚀 FULL STACK DEVELOPER | AI SPECIALIST
+# 🚀 FULL STACK DEVELOPER | JavaScript | React | Vue | Node.js | AWS | AI Agents
 
 ![Banner](https://img.shields.io/badge/-%F0%9F%94%A5%203%2B%20YEARS%20BUILDING%20SCALABLE%20SAAS%20%26%20AI%20SOLUTIONS%20%F0%9F%94%A5-black?style=for-the-badge&labelColor=black)
 
