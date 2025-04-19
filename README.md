@@ -83,43 +83,6 @@ const developer = {
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wasikamla&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
-## 💎 Core Expertise
-mermaid
-<div align="center">
-  graph TD
-    A[Full Stack Development] --> B[AI Integration]
-    A --> C[SaaS Architecture]
-    A --> D[DevOps & CI/CD]
-    A --> L[Geospatial Solutions]
-    B --> E[OpenAI]
-    B --> F[Claude]
-    B --> G[Gemini & DeepSeek]
-    C --> H[Multi-tenant Systems]
-    C --> I[Subscription Management]
-    D --> J[Kubernetes & Docker]
-    D --> K[Performance Optimization]
-    L --> M[Mapbox & Google Maps]
-    L --> N[HERE Maps & OpenLayers]
-
-</div>
-
-graph TD
-    A[Full Stack Development] --> B[AI Integration]
-    A --> C[SaaS Architecture]
-    A --> D[DevOps & CI/CD]
-    A --> L[Geospatial Solutions]
-    B --> E[OpenAI]
-    B --> F[Claude]
-    B --> G[Gemini & DeepSeek]
-    C --> H[Multi-tenant Systems]
-    C --> I[Subscription Management]
-    D --> J[Kubernetes & Docker]
-    D --> K[Performance Optimization]
-    L --> M[Mapbox & Google Maps]
-    L --> N[HERE Maps & OpenLayers]
-
-- **Performance Wizard**: Improved application speeds by 40%
-- **Deployment Expert**: Reduced deployment times by 50%
 
 ## 📫 Let's Build Something Amazing
 
